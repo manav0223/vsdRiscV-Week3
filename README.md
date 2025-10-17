@@ -1,18 +1,15 @@
-# Week-3-VSD-RISC-V-Tapeout-Program-
+# Week-3-VSD-RISC-V-Tapeout-Program
 
 `05/10/2025` to `11/10/2025`
-
----
 
 ## Table of Contents
   
 1. [Objectives](#objectives)  
 2. [Part-wise Folders](#part-wise-folders)
-    - [Part 1](https://github.com/MOHANAPRIYANP16/Week-3-VSD-RISC-V-Tapeout-Program-/tree/main/Part1)
-    - [Part 2](https://github.com/MOHANAPRIYANP16/Week-3-VSD-RISC-V-Tapeout-Program-/tree/main/Part2)
-    - [Part 3](https://github.com/MOHANAPRIYANP16/Week-3-VSD-RISC-V-Tapeout-Program-/tree/main/Part3)
+    - [Part 1](https://github.com/manav0223/vsdRiscV-Week3/tree/main/Part1)
+    - [Part 2](https://github.com/manav0223/vsdRiscV-Week3/tree/main/Part2)
+    - [Part 3](https://github.com/manav0223/vsdRiscV-Week3/tree/main/Part3)
 3. [Acknowledgements](#acknowledgements)  
-4. [Contributor](#contributor)
 
 ---
 
@@ -28,11 +25,11 @@
 
 ## Part-wise Folders:
 
-- [Part 1](https://github.com/MOHANAPRIYANP16/Week-3-VSD-RISC-V-Tapeout-Program-/tree/main/Part1) - Basics of STA, Clock definitions, and Timing paths  
+- [Part 1](https://github.com/manav0223/vsdRiscV-Week3/tree/main/Part1) - Basics of STA, Clock definitions, and Timing paths  
 
-- [Part 2](https://github.com/MOHANAPRIYANP16/Week-3-VSD-RISC-V-Tapeout-Program-/tree/main/Part2) - Detailed Setup/Hold Analysis, Types of Timing Paths, Constraints, and Timing Libraries  
+- [Part 2](https://github.com/manav0223/vsdRiscV-Week3/tree/main/Part2) - Detailed Setup/Hold Analysis, Types of Timing Paths, Constraints, and Timing Libraries  
 
-- [Part 3](https://github.com/MOHANAPRIYANP16/Week-3-VSD-RISC-V-Tapeout-Program-/tree/main/Part3) - SPEF Analysis and Back-Annotated Timing Verification  
+- [Part 3](https://github.com/manav0223/vsdRiscV-Week3/tree/main/Part3) - SPEF Analysis and Back-Annotated Timing Verification  
 
 ---
 
